@@ -1,4 +1,4 @@
 scalable2014
 ============
 
-materrial used in scalable computing module
+material used in scalable computing module
